@@ -14,7 +14,7 @@
         <div>
             <asp:TextBox ID="TxtPass" runat="server"></asp:TextBox></div>
         <div>
-            <asp:Button ID="Button1" runat="server" Text="Button" OnClick="Btn_Save_Cookie"/>
+            <asp:Button ID="Button1" runat="server" Text="Login" OnClick="Btn_Save_Cookie"/>
         </div>
     </form>
 </body>

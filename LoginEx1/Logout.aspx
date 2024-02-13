@@ -13,7 +13,7 @@
             Benvenuto <asp:Label ID="LabelUser" runat="server" Text=""></asp:Label>
         </div>
         <div>
-            <asp:Button ID="BtnLogout" runat="server" Text="Button" OnClick="Btn_Logout"/>
+            <asp:Button ID="BtnLogout" runat="server" Text="LogOut" OnClick="Btn_Logout"/>
         </div>
     </form>
 </body>
